@@ -1,7 +1,7 @@
 package hello.core.discount;
 
 import hello.core.Grade;
-import hello.core.Member;
+import hello.core.member.Member;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 

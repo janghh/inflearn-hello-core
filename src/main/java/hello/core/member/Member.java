@@ -1,4 +1,6 @@
-package hello.core;
+package hello.core.member;
+
+import hello.core.Grade;
 
 public class Member {
 
